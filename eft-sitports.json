@@ -1,1 +1,16 @@
-
+[
+    {
+        "Protocol": "Both",
+        "Port": "6969",
+        "Name": "Main Game Port",
+        "Description": "Port used for main game traffic",
+        "Ref": "MainGamePort"
+    },
+    {
+        "Protocol": "Both",
+        "Port": "6970",
+        "Name": "Other",
+        "Description": "Port used for main game traffic",
+        "Ref": "Other"
+    }
+]
