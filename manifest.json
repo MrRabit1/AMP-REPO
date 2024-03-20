@@ -1,10 +1,9 @@
 {
     "id": "177482b6-7d73-4884-b639-83e36f072b53",
-    "authors": [
-        "Rabbit - Made with AMP Config Generator"
-    ],
-    "origin": "https://github.com/Rabbit - Made with AMP Config Generator/AMPTemplates.git",
-    "url": "https://github.com/Rabbit - Made with AMP Config Generator/AMPTemplates",
+    "authors": ["Rabbit"],
+    "origin": "https://github.com/MrRabit1/AMP-REPO",
+    "url": "https://github.com/MrRabit1/AMP-REPO",
     "imagefile": "",
-    "prefix": "Rabbit - Made with AMP Config Generator"
+    "prefix": ""
+    "repotype": "AppTemplates"
 }
