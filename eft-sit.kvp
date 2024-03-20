@@ -71,7 +71,7 @@ Meta.OS=1
 Meta.ConfigManifest=eft-sitconfig.json
 Meta.MetaConfigManifest=eft-sitmetaconfig.json
 Meta.ConfigRoot=eft-sit.kvp
-Meta.AppConfigId=a98db973-kwl8-xp1l-z94k-jf0bma5pez8c6
+Meta.AppConfigId=177482b6-7d73-4884-b639-83e36f072b53
 App.RootDir=./eft-sit/
 Meta.DisplayImageSource=url:https://avatars.githubusercontent.com/u/151196584?s=200&v=4
 App.BaseDirectory=./eft-sit/serverfiles/
