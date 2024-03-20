@@ -26,6 +26,7 @@ Console.UserLeaveRegex=^User (?<username>.+?) \((?<userid>-?d+)\) disconnected\.
 Meta.Author=Rabbit
 Meta.ConfigManifest=sitconfig.json
 Meta.ConfigRoot=sit.kvp
+Meta.AppConfigId=a98db973-kwl8-xp1l-z94k-jf0bma5pez8c6
 Meta.Description=EFT SIT Server
 Meta.DisplayImageSource=url:https://avatars.githubusercontent.com/u/151196584?s=200&v=4
 Meta.DisplayName=SIT
