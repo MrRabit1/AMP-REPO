@@ -1,1 +1,14 @@
-
+[
+    {
+        "UpdateStageName": "",
+        "UpdateSourcePlatform": "Windows",
+        "UpdateSource": "FetchURL",
+        "UpdateSourceData": "https://github.com/stayintarkov/SIT.Aki-Server-Mod/releases/download/1.6.1/SITCoop-1.6.1-WithAki3.8.0-f2254b-win.zip",
+        "UpdateSourceArgs": "https://github.com/stayintarkov/SIT.Aki-Server-Mod/releases/download/1.6.1/SITCoop-1.6.1-WithAki3.8.0-f2254b-win.zip",
+        "UnzipUpdateSource": false,
+        "OverwriteExistingFiles": false,
+        "UpdateSourceConditionSetting": "",
+        "DeleteAfterExtract": true,
+        "OneShot": false
+    }
+]
