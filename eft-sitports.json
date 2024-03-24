@@ -2,15 +2,22 @@
     {
         "Protocol": "Both",
         "Port": "6969",
-        "Name": "Main Game Port",
+        "Name": "Game",
         "Description": "Port used for main game traffic",
-        "Ref": "MainGamePort"
+        "Ref": "Game"
     },
     {
         "Protocol": "Both",
         "Port": "6970",
-        "Name": "Other",
+        "Name": "Game 2",
         "Description": "Port used for main game traffic",
-        "Ref": "Other"
+        "Ref": "Game2"
+    },
+    {
+        "Protocol": "Both",
+        "Port": "6971",
+        "Name": "Game 3",
+        "Description": "Port used for main game traffic",
+        "Ref": "Game3"
     }
 ]
