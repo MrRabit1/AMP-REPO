@@ -1,13 +1,1 @@
-[
-    {
-        "UpdateStageName": "SIT Update",
-        "UpdateSourcePlatform": "Windows",
-        "UpdateSource": "GithubRelease",
-        "UpdateSourceData": "Latest",
-        "UpdateSourceArgs": "https://github.com/stayintarkov/SIT.Aki-Server-Mod/releases",
-        "UnzipUpdateSource": false,
-        "OverwriteExistingFiles": false,
-        "DeleteAfterExtract": true,
-        "OneShot": false
-    }
-]
+
